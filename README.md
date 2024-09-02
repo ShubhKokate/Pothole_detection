@@ -73,31 +73,28 @@ Then test the trained model on the locan ubantu machine.
 The tested resulat are shown in the follwing points.
 
 ## Demo
-Result image of the trained model.
+**_Result image of the trained model_:**
 
 ![results](https://github.com/user-attachments/assets/81c3933d-eb61-4c17-b525-4d9553bdfdf0)
 
-Confusion matrix of the trained model.
+**_Confusion matrix of the trained model_:**
 
 ![confusion_matrix](https://github.com/user-attachments/assets/2c0b8886-7fa6-48f7-9bee-eceecd55d03a)
 
-Testing on demo video, resulat are shown in the following video.
+**_Testing on demo video, resulat are shown in the following video_:**
 
 https://github.com/user-attachments/assets/c7e73d76-3678-4398-a6a1-cfe93c1af5a0
 
 
-Testing on the local machine of excution shooted video is below.
+**_Testing on the local machine of excution shooted video is below_:**
 
 https://github.com/ShubhKokate/Pothole_detection/blob/master/runs/detect/exp/demo2.mp4
 
 # Youtube video of the trained model and execution for testing on local machine.
 
-**Model training:** https://youtu.be/cLdp8E50rhE
+**_Model training_:** https://youtu.be/cLdp8E50rhE
 
-**Testing on local machine:** https://www.youtube.com/watch?v=2IFUl-RsUVI
-
-
-
+**_Testing on local machine_:** https://www.youtube.com/watch?v=2IFUl-RsUVI
 
 
 
