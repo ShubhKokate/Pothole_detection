@@ -79,11 +79,11 @@ Result image of the trained model.
 
 Confusion matrix of the trained model.
 
-<https://github.com/ShubhKokate/Pothole_detection/blob/master/confusion_matrix.png>
+![confusion_matrix](https://github.com/user-attachments/assets/2c0b8886-7fa6-48f7-9bee-eceecd55d03a)
 
 Testing on demo video, resulat are shown in the following video.
 
-https://github.com/ShubhKokate/Pothole_detection/blob/master/detected_pothole.mp4
+https://github.com/user-attachments/assets/c7e73d76-3678-4398-a6a1-cfe93c1af5a0
 
 
 Testing on the local machine of excution shooted video is below.
