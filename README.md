@@ -92,9 +92,9 @@ https://github.com/ShubhKokate/Pothole_detection/blob/master/runs/detect/exp/dem
 
 # Youtube video of the trained model and execution for testing on local machine.
 
-https://youtu.be/cLdp8E50rhE
+**Model training:** https://youtu.be/cLdp8E50rhE
 
-https://www.youtube.com/watch?v=2IFUl-RsUVI
+**Testing on local machine:** https://www.youtube.com/watch?v=2IFUl-RsUVI
 
 
 
