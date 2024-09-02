@@ -63,7 +63,7 @@ Then test the trained model on the locan ubantu machine.
   python3 detect.py --weights best.pt --source demo2.mp4 --view-img
 
 ```
-**##_Colab-notebook_**
+**_Colab-notebook_**
 
 **https://github.com/ShubhKokate/Pothole_detection/blob/master/Pothole_Detection_Model_Using_YOLOv9.ipynb**
 
