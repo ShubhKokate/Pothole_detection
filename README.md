@@ -75,7 +75,7 @@ The tested resulat are shown in the follwing points.
 ## Demo
 Result image of the trained model.
 
-!{image_alt}(https://github.com/ShubhKokate/Pothole_detection/blob/master/results.png) 
+![results](https://github.com/user-attachments/assets/81c3933d-eb61-4c17-b525-4d9553bdfdf0)
 
 Confusion matrix of the trained model.
 
