@@ -44,14 +44,6 @@ Detailed guidelines on how to use the trained model for pothole detection in ima
 
 
 
-
-
-
-
-
-
-
-
 # Deployment
  ## Steup Environment
 To setup the rquired environment
@@ -65,6 +57,7 @@ To setup the rquired environment
   ```bash
   !python train_dual.py --workers 8 --device 0 --batch 8 --data 'Pothole-1/data.yaml' --img 640 --cfg models/detect/yolov9-e.yaml --weights '{HOME}/weights/yolov9-e.pt' --name yolov9-e-finetuning --hyp hyp.scratch-high.yaml --min-items 0 --epochs 30 --close-mosaic 15
 ```
+## testing on local machine:
 Then test the trained model on the locan ubantu machine.
 ```bash
   python3 detect.py --weights best.pt --source demo2.mp4 --view-img
