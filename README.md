@@ -92,7 +92,7 @@ https://github.com/ShubhKokate/Pothole_detection/blob/master/runs/detect/exp/dem
 
 # Youtube video of the trained model and execution for testing on local machine.
 
-[![]Alt text](https://youtu.be/cLdp8E50rhE)
+[![Colab-Notebook](https://winaero.com/blog/wp-content/uploads/2015/02/YouTube-logo-banner.png)](https://youtu.be/cLdp8E50rhE)
 
 https://www.youtube.com/watch?v=2IFUl-RsUVI
 
